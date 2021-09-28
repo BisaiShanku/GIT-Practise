@@ -1,0 +1,28 @@
+What is Git/GitHub & Why do we need it? | Git Tutorials #1
+------------------------------------------------
+Git is a version control system
+
+
+
+Installing Git + Initial Setup? | Git Tutorials #2
+-------------------------------------------------
+set the username by the command
+git config --global user.name "Shanku"
+
+set the email by the command
+git config --global user.email "shankubisai1111@gmail.com"
+
+fetch the list by the below commands
+git config --list
+
+
+
+Git: Three Stage Architecture | Git Tutorials #3
+-----------------------------------------------
+
+
+
+Tracking Our first Git Project | Git Tutorials #4
+----------------------------------------------
+
+
