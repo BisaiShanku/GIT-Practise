@@ -24,5 +24,31 @@ Git: Three Stage Architecture | Git Tutorials #3
 
 Tracking Our first Git Project | Git Tutorials #4
 ----------------------------------------------
+Added Notes
+
+
+
+Cloning a Remote Git Repository from GitHub | Git Tutorials #5
+----------------------------------------------
+
+
+
+Git: File Status Lifecycle | Git Tutorials #6
+-----------------------------------------------
+
+
+
+.gitignore: Ignoring Files in Git | Git Tutorials #7
+-----------------------------------------------
+create a file as .gitignore
+ignore the error.log file by putting the value in .gitignore
+
+
+
+Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
+----------------------------------------------
+git diff compares the working directory with the staging area
+git diff --staged gives the difference between the staged files and the last commit
+
 
 
