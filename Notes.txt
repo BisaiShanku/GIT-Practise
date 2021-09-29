@@ -52,3 +52,19 @@ git diff --staged gives the difference between the staged files and the last com
 
 
 
+Git: Skipping The Staging Area | Git Tutorials #9
+----------------------------------------------
+not recommended
+
+
+
+Moving and Renaming Files In Git | Git Tutorials #10
+-----------------------------------------------
+
+
+
+Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
+-----------------------------------------------
+
+
+
