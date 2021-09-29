@@ -71,6 +71,9 @@ Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
 Unstaging & Unmodifying Files In Git | Git Tutorials #12
 ----------------------------------------------
 git restore Notes.txt to restore the file in the working directory(it will restore to the last staged)
+before that you have to unstage the filed from the staging area by using the command git restore --staged Notes.txt
+
+imagin you have a file that u have modofied and
 
 
 
